@@ -1,5 +1,5 @@
 """
-Módulo hello.py
+Módulo app.py
 App: "Hello World!" com o micro-framework Flask
 Baseado em: https://bit.ly/3eD7BkU
 https://flask.palletsprojects.com/en/2.0.x/
